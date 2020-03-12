@@ -1,4 +1,4 @@
-Join us for the Seattle DevOps Meetup Group!
+**Join us for the Seattle DevOps Meetup Group!**
 
 The objective of Seattle DevOps Meetup is to provide a welcoming and inclusive setting to learn about DevOps topics. Seattle DevOps Meetup is for people interested in the people, processes, and technologies related to DevOps. This group is targeted towards operators, developers, engineers, program managers, incidident response, site relialibity engineers and anybody with an interest in DevOps (product managers, marketing, sales, customer support, people ops, etc). We believe that everybody plays a role in DevOps.
 
@@ -15,10 +15,9 @@ Each month we invite two speakers to present on anything related to DevOps.
 * 6:15pm - 7:30pm - Presentations, discussions, etc.
 * 7:30pm - 7:35pm - Networking, conversation, planning for next month.
 
-
 Do you have a topic that you'd like to present or one that you like to see covered?  Please contact the [organizers and let us know](http://www.meetup.com/Seattle-DevOps-Meetup/suggestion/)!  This is a great venue for lightning talks, first time presenters, and deep technical dives.  We all want to hear from you.
 
-*Topics may include:*
+**Topics may include:**
 
 * Managing solutions at scale
 * Cloud, containers, and K8s
