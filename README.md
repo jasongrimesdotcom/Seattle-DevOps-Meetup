@@ -1,11 +1,11 @@
-# DevOps DC
+# Seattle DevOps Meetup
 
-This is the planning repository for the [DevOps DC meetup group](http://www.meetup.com/DevOpsDC/).
+This is the planning repository for the [Seattle DevOps Meetup](https://www.meetup.com/Seattle-DevOps-Meetup/).
 
 * [Code of Conduct](code_of_conduct.md)
 * [Schedule](schedule.md)
-* Check the [FAQ in the Wiki](https://github.com/devopsdc/devopsdc/wiki) for answers to some frequently asked questions.
-* Want to speak? Open a [speaking proposal issue](https://github.com/devopsdc/devopsdc/issues/new?template=speaker-proposal-.md) and we'll get back you.
+* Check the [FAQ in the Wiki](https://github.com/jasongrimesdotcom/Seattle-DevOps-Meetup/wiki) for answers to some frequently asked questions.
+* Want to speak? Open a [speaking proposal issue](https://github.com/jasongrimesdotcom/Seattle-DevOps-Meetup/issues/new?template=speaker-proposal-.md) and we'll get back you.
 * Want to sponsor?
     * Read our [sponsor information](sponsor_info.md)
     * Fill out [our Google form](https://docs.google.com/forms/d/e/1FAIpQLSdDOmOscNj5ZmuSoDFdYBzpqiSK63evoZueK_O1UHJenTL8Cw/formResponse) and we'll be in touch
