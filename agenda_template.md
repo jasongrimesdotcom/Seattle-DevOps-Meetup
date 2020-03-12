@@ -23,7 +23,7 @@ Do you have a topic that you'd like to present or one that you like to see cover
 * Cloud, containers, and K8s
 * Leadership and leveling up
 * Empathy
-* Team
+* Advice for/about Teams
 * Community Building
 * Tools, technologies, and tricks of the trade
 
