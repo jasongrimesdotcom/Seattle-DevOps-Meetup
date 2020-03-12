@@ -26,8 +26,8 @@ The objective of Seattle DevOps Meetup is to provide a welcoming and inclusive s
 * Cloud, containers, and K8s
 * Leadership and leveling up
 * Empathy
-* Advice for/about Teams
-* Community Building
+* Advice for/about/operating Teams
+* Community building
 * Tools, technologies, and tricks of the trade
 
 **Artifacts:**
