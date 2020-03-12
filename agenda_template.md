@@ -4,6 +4,7 @@ The objective of Seattle DevOps Meetup is to provide a welcoming and inclusive s
 
 **Format:**
 * Each month we invite two speakers to perform 20 minute presentations on topics related to DevOps. 
+* Absolutely no product demo or pitches please—-we want to focus on learning, not selling.
 * Hosted at Chef Software - 619 Western Ave, Suite 400 Seattle, WA 98104
 * Meetups will be held during one Wednesday each month.
 * Food and drink provided at all meetup attendees via sponsorships (https://forms.gle/wureudFy9KK6vECMA).
