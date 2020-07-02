@@ -8,5 +8,5 @@ In the event where Zoom or Chef Software is unable to host or we desire a change
 
 |Company|Location|Capacity|Contact|
 |-------|--------|--------|-------|
-|Chef Software|619 Western Ave Suite 400 Seattle WA 98104||200|Jodi Wolfborn|
+|Chef Software|619 Western Ave Suite 400 Seattle WA 98104|200|Jodi Wolfborn|
 
