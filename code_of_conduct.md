@@ -2,7 +2,7 @@
 
 *Last Updated:  02-Jul-2020*
 
-Seattle DevOps is a community-organized Meetup intended for networking and collaboration in the community.
+Seattle DevOps Meetup is a community-organized Meetup intended for networking and collaboration in the community.
 
 We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout all Meetup events.
 
@@ -10,7 +10,7 @@ To make clear what is expected, all delegates/attendees, speakers, exhibitors, o
 
 ## The Short Version
 
-Seattle DevOps is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of Meetup participants in any form.
+Seattle DevOps Meetup is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of Meetup participants in any form.
 
 All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any Meetup venue, including talks.
 
@@ -42,7 +42,7 @@ This Code of Conduct was forked from the example policy from the [Geek Feminism 
 
 ## Source and Changes
 
-The canonical source of this document is [GitHub](https://github.com/devopsdc/devopsdc/blob/master/code_of_conduct.md).  Submit a pull request for this document there if you would like to see a change.
+The canonical source of this document is [GitHub](https://github.com/jasongrimesdotcom/Seattle-DevOps-Meetup/blob/master/code_of_conduct.md).  Submit a pull request for this document there if you would like to see a change.
 
 The quick version 
 The Seattle DevOps Meetup is dedicated to providing a friendly, safe, inclusive, and harassment-free environment for all community members regardless of gender identity and expression, sexual orientation, ability, ethnicity, body size, socioeconomic status, level of experience, age, religion (or lack thereof), or any other identity markers. 
