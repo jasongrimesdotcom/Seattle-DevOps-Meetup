@@ -1,8 +1,8 @@
 # Code of Conduct
 
-*Last Updated:  03-Mar-2017*
+*Last Updated:  02-Jul-2020*
 
-DevOpsDC is a community-organized Meetup intended for networking and collaboration in the community.
+Seattle DevOps is a community-organized Meetup intended for networking and collaboration in the community.
 
 We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout all Meetup events.
 
@@ -10,7 +10,7 @@ To make clear what is expected, all delegates/attendees, speakers, exhibitors, o
 
 ## The Short Version
 
-DevOpsDC is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of Meetup participants in any form.
+Seattle DevOps is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of Meetup participants in any form.
 
 All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any Meetup venue, including talks.
 
@@ -34,7 +34,7 @@ If a participant engages in behavior that violates this code of conduct, the Mee
 
 ## Contact Information
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a Meetup organizer. Meetup organizers can be found on the [Organizers page of Meetup.com site](http://www.meetup.com/DevOpsDC/members/?op=leaders).
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a Meetup organizer. Meetup organizers can be found on the [Organizers page of Meetup.com site](https://www.meetup.com/Seattle-DevOps-Meetup/members/?op=leaders).
 
 ## License
 
