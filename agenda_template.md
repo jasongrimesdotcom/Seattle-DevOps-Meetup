@@ -18,9 +18,13 @@ The objective of Seattle DevOps Meetup is to provide a welcoming and inclusive s
 * 5:30pm - Zoom meeting will begin, Actual meetup starting up this month's meeting
 * 5:30pm - 5:40pm - Meet, greet, catch up online with colleagues
 * 5:40pm - 5:45pm - Introductions + Sponsorships
-* 6:00pm - 6:15pm - Introductions and Announcements
-* 6:15pm - 7:30pm - Presentations, discussions, etc.
-* 7:30pm - 7:35pm - Networking, conversation, planning for next month
+* 5:45pm - 6:00pm - Announcements
+* 6:00pm - 6:15pm - Presentation #1
+* 6:15pm - 6:20pm - 5 minute change over
+* 6:20pm - 6:35pm - Presentation #2
+* 6:35pm - 6:40pm - 5 minute change over
+* 6:40pm - 7:00pm - Panel Discussion
+* 7:00pm - Wrap up // uplug
 
 **Topics may include:**
 
