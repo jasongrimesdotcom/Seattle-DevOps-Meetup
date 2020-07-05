@@ -1,13 +1,13 @@
 **Join us for the Seattle DevOps Meetup Group!**
 
-The objective of Seattle DevOps Meetup is to provide a welcoming and inclusive setting to learn about DevOps topics. Seattle DevOps Meetup is open to folks interested in the people, processes, and technologies related to DevOps. This group is targeted towards operators, developers, engineers, program managers, incidident response, site relialibity engineers and anybody with an interest in DevOps (product managers, marketing, sales, customer support, people ops, etc). We believe that everybody plays a role in DevOps.
+The objective of Seattle DevOps Meetup is to provide a welcoming and inclusive setting to learn about DevOps topics. Seattle DevOps Meetup is open to folks interested in the people, processes, and technologies related to DevOps. This group is targeted towards operators, developers, engineers, program managers, incident response, site relialibity engineers and anyone with an interest in DevOps (product managers, marketing, sales, customer support, people ops, etc). We believe that everybody plays a role in DevOps.
 
 **Format:**
-* Each month we invite two speakers to perform 20 minute presentations on topics related to DevOps
+* Each month we invite two speakers to perform 15 minute presentations on topics related to DevOps
 * Absolutely no product demo or pitches please—-we want to focus on learning, not selling
-* Hosted at Chef Software - 619 Western Ave, Suite 400 Seattle, WA 98104
+* Hosted online via Zoom meeting
 * Meetups will be held during one Wednesday each month
-* Food and drink provided at all meetup attendees via sponsorships (https://forms.gle/wureudFy9KK6vECMA)
+* Sponsorships (https://forms.gle/wureudFy9KK6vECMA)
 * We ask for all members and attendees at our meetups to abide by our Code of Conduct
 
 **Code of Conduct:** 
@@ -15,7 +15,9 @@ The objective of Seattle DevOps Meetup is to provide a welcoming and inclusive s
 
 **Agenda:**
 
-* 5:30pm - 6:00pm - Meet, greet, and eat
+* 5:30pm - Zoom meeting will begin, Actual meetup starting up this month's meeting
+* 5:30pm - 5:40pm - Meet, greet, catch up online with colleagues
+* 5:40pm - Introductions
 * 6:00pm - 6:15pm - Introductions and Announcements
 * 6:15pm - 7:30pm - Presentations, discussions, etc.
 * 7:30pm - 7:35pm - Networking, conversation, planning for next month
