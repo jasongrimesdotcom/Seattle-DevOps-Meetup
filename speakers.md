@@ -1,6 +1,6 @@
-# DevOpsDC MeetUp and continuous RFP
+# Seattle DevOps Monthly MeetUp and continuous RFP
 
-For 2019 the DevOpsDC organizers are iterating on a revamped process for soliciting, tracking and scheduling speakers. We are replacing pull requests to this document with a process tracking speakers, and their proposals, as issues that we track on a [GitHub project board](https://github.com/devopsdc/devopsdc/projects/1) as tasks with Kanban flow.
+For 2020 and 2021 Seattle DevOps Meetup organizers are iterating on a revamped process for soliciting, tracking and scheduling speakers. We are replacing pull requests to this document with a process tracking speakers, and their proposals, as issues that we track on a [GitHub project board](https://github.com/devopsdc/devopsdc/projects/1) as tasks with Kanban flow.
 
 ## How to propose a topic
 
@@ -14,7 +14,7 @@ The proposal _states_ are as following:
 
 WIP limit: none
 
-These are sketches of ideas that the DevOpsDC organizers need to follow up on, or that our proposers are still mulling over. GitHub notes should be converted to issues before moving to "Proposed".
+These are sketches of ideas that the Seattle DevOps Monthly organizers need to follow up on, or that our proposers are still mulling over. GitHub notes should be converted to issues before moving to "Proposed".
 
 ### Proposed
 
