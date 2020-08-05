@@ -2,9 +2,9 @@
 
 Interested? Complete our [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdDOmOscNj5ZmuSoDFdYBzpqiSK63evoZueK_O1UHJenTL8Cw/formResponse) and we'll be in touch.
 
-Seattle DevOps Monthly is a meetup group that includes more than 2,300+ local technologists and meets on a monthly basis.  Our meetings typically draw 40-150 people who are interested in sharing and learning about the people, processes, and tools required to build and operate highly resiliant distributed systems at scale.
+Seattle DevOps Monthly is a meetup group that includes more than 2,300+ local technologists and meets on a monthly basis.  Our online Zoom meetings typically draw 40-150 people who are interested in sharing and learning about the people, processes, and tools required to build and operate highly resiliant distributed systems at scale.
 
-Sponsoring our meetings is a great way to get involved with the local technology community.
+Sponsoring a Seattle DevOps monthly meeetup is a great way to engage and participate with the local technology community.
 
 We have a number of different sponsorship levels and unique sponsorship opportunities available.
 
@@ -17,7 +17,7 @@ We need venue, food and beverages. In return, each sponsor will:
   * be thanked by the MC
   * have 4 minutes to address the meeting attendees, along with one slide
   * be thanked on the MeetUp event page
-  * be listed on the [Meetup Sponsors](https://www.meetup.com/DevOpsDC/sponsors/) page for six months
+  * be listed on the [Meetup Sponsors](http://www.meetup.com/Seattle-DevOps-Meetup/sponsors) page for six months
 
 ### Food Sponsor
 
@@ -36,13 +36,13 @@ Provide us a space for up to 100 participants, and be OK with food and drinks. I
 
 One food, one beverage, and one venue sponsorship is available each meeting.
 
-DevOps DC does not share contact information of our attendees with our sponsors.  However, sponsors are more than welcome to ask meeting attendees to share their information.
+Seattle DevOps does not share contact information of our attendees with our sponsors.  However, sponsors are more than welcome to ask meeting attendees to share their information.
 
-Please [complete our sponsor details form](https://goo.gl/forms/gM855liUoZAw4q8X2) or contact the organizers at [meetup@devopsdaysdc.org](mailto:meetup@devopsdaysdc.org) to arrange your sponsorship of DevOps DC!
+Please [complete our sponsor details form](https://goo.gl/forms/gM855liUoZAw4q8X2) or contact the organizers at [SeattleDevOpsMeetup@domainname.com](mailto:SeattleDevOpsMeetup@domainname.com) to arrange your sponsorship of Seattle DevOps Monthly!
 
 ## Diversity/Inclusion Statement
 
-DevOpsDC is committed to improving diversity and inclusion within our profession. Sponsors will include on their slide a diversity/inclusion statement of their choice. See the Sample Slides below 
+Seattle DevOps Monthly Meetup is committed to improving diversity and inclusion within our profession. Sponsors will include on their slide a diversity/inclusion statement of their choice. See the Sample Slides below 
 
 Suggestions:
 - woman or minority ownership
