@@ -1,4 +1,4 @@
-Date|Host Location|Sponsor(s)|Speakers|Artifacts|
+Date|URL|Host Location|Title|Sponsor(s)|Speakers|Artifacts|
 ----|-------------|----------|--------|---------|
 [March 11, 2020](https://www.meetup.com/Seattle-DevOps-Meetup/events/268810764/)|  Chef Software |  Chef Software | Jason Grimes |
 [February 12, 2020](https://www.meetup.com/Seattle-DevOps-Meetup/events/267681597/)| Chef Software | Chef Software | Jason Grimes |
