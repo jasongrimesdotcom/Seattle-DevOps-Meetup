@@ -9,7 +9,7 @@ assignees: ''
 
 ## Speaker
 
-Name, contact info (any of Twitter, Signal, GitHub repo, LinkedIn, email or something else)
+Name, contact info (any of Twitter, Signal, GitHub repo, LinkedIn, Medium, email or something else)
 
 ## Blurb
 
@@ -23,7 +23,7 @@ What are you talking about, why is it compelling?
 
 ## Support needed
 
-- [ ] I would like help from DevOpsDC organizers in reviewing and improving my talk
+- [ ] I would like help from Seattle DevOps Monthly organizers in reviewing and improving my talk
 - [ ] I'm good to go
 
 ## Other information we should know:
