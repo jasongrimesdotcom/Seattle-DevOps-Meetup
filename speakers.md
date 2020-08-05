@@ -4,7 +4,7 @@ For 2020 and 2021 Seattle DevOps Meetup organizers are iterating on a revamped p
 
 ## How to propose a topic
 
-Open a [Speaker proposal](https://github.com/jasongrimesdotcom/Seattle-DevOps-Meetup/issues/new?template=speaker-proposal-.md) and complete it to the best of your ability. If the organizers are not responding within a few weeks feel free to comment on the issue to get our attention.
+Open a [Speaker proposal](https://github.com/jasongrimesdotcom/Seattle-DevOps-Meetup/new?template=speaker-proposal-.md) and complete it to the best of your ability. If the organizers are not responding within a few weeks feel free to comment on the issue to get our attention.
 
 ## How to track your proposal
 
