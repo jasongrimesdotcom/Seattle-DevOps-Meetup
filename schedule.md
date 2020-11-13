@@ -4,6 +4,8 @@ https://www.meetup.com/Seattle-DevOps-Meetup/events/
 
 # Previous Talks
 
+https://www.meetup.com/Seattle-DevOps-Meetup/events/past/
+
 Date|Host Location|Title|Sponsor(s)|Speakers|URL|
 ----|---|-------------|-----|----------|--------|
 03/11/2020| Chef Software | March 2020 Seattle DevOps Meetup | Chef Software | Jason Grimes | https://www.meetup.com/Seattle-DevOps-Meetup/events/268810764/
