@@ -12,7 +12,7 @@ We believe that everybody plays a role in DevOps
 
 *** All talks are remote/virtual ***
 
-Example Topics include:
+# Example Topics include:
 
 + Deploying & Managing Kubernetes with Kubernetes
 
@@ -22,7 +22,7 @@ Example Topics include:
 
 + Putting Burnout on Backstreet
 
-We have a few house rules:
+# We have a few house rules:
 
 + The objective of the group is to provide a welcoming and inclusive setting to learn about DevOps topics 
 
@@ -31,6 +31,8 @@ We have a few house rules:
 + No Vendor pitches (Even if you are sponsoring)
 
 + Be respectful of the audience
+
+# Contacting Seattle DevOps Meetup Organizers
 
 [Code of Conduct](https://docs.google.com/document/d/1qgiWwXjH2cVKlQq2yWqvtjzSHFKvZwnPWPNdgwQKzZQ)
 
