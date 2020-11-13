@@ -4,13 +4,13 @@ This is the planning repository for the [Seattle DevOps Meetup](https://www.meet
 
 Seattle DevOps is for people interested in the people, processes, and technologies related to DevOps.
 
-Each month we invite two speakers to present on anything related to DevOps
++ Each month we invite two speakers to present on anything related to DevOps
 
-Talks are about 20 minutes (or less) with 5 minutes reserved for questions and answers
++ Talks are about 20 minutes (or less) with 5 minutes reserved for questions and answers
 
-We believe that everybody plays a role in DevOps
++ We believe that everybody plays a role in DevOps
 
-*** All talks are remote/virtual ***
++ All talks are remote/virtual and hosted via Zoom.us
 
 # Example Topics include:
 
