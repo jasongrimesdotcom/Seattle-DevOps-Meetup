@@ -34,9 +34,9 @@ Seattle DevOps is for people interested in the people, processes, and technologi
 
 # Contacting Seattle DevOps Meetup Organizers
 
-[Code of Conduct](https://docs.google.com/document/d/1qgiWwXjH2cVKlQq2yWqvtjzSHFKvZwnPWPNdgwQKzZQ)
+[Seattle DevOps Meetup Code of Conduct](https://docs.google.com/document/d/1qgiWwXjH2cVKlQq2yWqvtjzSHFKvZwnPWPNdgwQKzZQ)
 
-[Schedule](https://www.meetup.com/Seattle-DevOps-Meetup/events/)
+[Seattle DevOps Meetup Schedule](https://www.meetup.com/Seattle-DevOps-Meetup/events/)
 
 Do you have a talk or idea that you would like to share with our meetup members? Submit your speaking request - https://docs.google.com/forms/d/1x8vonUYI4vlHFw128pQcrXlMIAYR_7SqyuE91KbeGRs/prefill
 
